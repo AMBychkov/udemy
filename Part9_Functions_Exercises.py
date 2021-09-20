@@ -148,6 +148,3 @@ def count_evens(nums):
             result += 1
 
     return result
-
-
-print(count_evens([2, 1, 2, 3, 4]))
